@@ -2,7 +2,7 @@
 
 ## Week 1
 
-Python and ML fundamentals
+### Python and ML fundamentals
 
 1. Python refresher
 2. Data types and structure
@@ -14,7 +14,7 @@ Python and ML fundamentals
 
 ## Week 2
 
-Statistics and Unsupervised Methods
+### Statistics and Unsupervised Methods
 
 1. K-means clustering
 2. Gaussian Mixture Model
@@ -25,7 +25,7 @@ Statistics and Unsupervised Methods
 ## Week 3
 
 	
-Overview of machine learning concepts
+### Overview of machine learning concepts
 
 1. Applications and examples
 2. Types of machine learning
@@ -40,7 +40,7 @@ Overview of machine learning concepts
 
 ## Week 4
 
-Supervised methods: Regression and Classification
+### Supervised methods: Regression and Classification
 
 1. Logistic regression
 2. Evaluation metrics for classification
@@ -52,7 +52,7 @@ Supervised methods: Regression and Classification
 
 ## Week 5
 
-Deep learning methods
+### Deep learning methods
 
 1. Introduction to Autoencoders
 2. Neural network architecture
@@ -62,7 +62,7 @@ Deep learning methods
 
 ## Week 6
 
-Computer vision and advanced methods
+### Computer vision and advanced methods
 
 1. CNN architecture
 2. Convolution and pooling layers
